@@ -1,0 +1,15 @@
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\bin\Debug\net6.0\NumberX.exe
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\bin\Debug\net6.0\NumberX.deps.json
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\bin\Debug\net6.0\NumberX.runtimeconfig.json
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\bin\Debug\net6.0\NumberX.dll
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\bin\Debug\net6.0\NumberX.pdb
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.csproj.AssemblyReference.cache
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.AssemblyInfoInputs.cache
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.AssemblyInfo.cs
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.csproj.CoreCompileInputs.cache
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.dll
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\refint\NumberX.dll
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.pdb
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\NumberX.genruntimeconfig.cache
+C:\Users\AlbinLundberg\source\repos\NumberX\NumberX\obj\Debug\net6.0\ref\NumberX.dll
